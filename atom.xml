@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Room 13]]></title>
   <link href="http://graylikeme.github.io/atom.xml" rel="self"/>
   <link href="http://graylikeme.github.io/"/>
-  <updated>2013-10-10T00:01:58+02:00</updated>
+  <updated>2013-10-10T00:40:59+02:00</updated>
   <id>http://graylikeme.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Stanislav Ageev]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
