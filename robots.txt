@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://graylikeme.github.io/sitemap.xml 
